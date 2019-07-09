@@ -1,7 +1,7 @@
 {
   "name": "Workplace-Bot-Tutorial",
   "version": "1.0.0",
-  "description": "A simple Bot for Workplace by Facebook which will echo back messages to the user. ",
+  "description": "A simple Bot for Workplace by Facebook which will echo back messages to the user.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
