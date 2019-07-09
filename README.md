@@ -8,4 +8,4 @@ This repository shows the bot exactly as it should look if you've followed the t
 
 If you're interested in learning more about Workplace, talk to us. We'll hook you up with a no-commitment 90 day free trial. And if you do decide that Workplace is for you, we can give you **free support, flexible billing and your first bot is free!**
 
-# [www.WeAreCoolr.com](https://www.wearecoolr.com)
+# [WeAreCoolr.com](https://www.wearecoolr.com)
